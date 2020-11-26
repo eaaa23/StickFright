@@ -10,6 +10,9 @@ StickFright
 g++ :
 9.0+ 
 
+clang :
+4.6+
+
 make :
 4.0+
 
